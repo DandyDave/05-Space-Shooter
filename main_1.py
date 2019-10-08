@@ -19,7 +19,7 @@ SCREEN_TITLE = "WRLD SVR"
 MOVEMENT_SPEED = 5
 ANGLE_SPEED = 5
 
-STARTING_ASTEROID_COUNT = 3
+STARTING_ASTEROID_COUNT = 5
 
 class TurningSprite(arcade.Sprite):
     """ Sprite that sets its angle to the direction it is traveling in. """
